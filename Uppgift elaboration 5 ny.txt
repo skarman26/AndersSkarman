@@ -1,0 +1,98 @@
+<!docotype   html>
+<html>
+
+<head>
+<title>My favorite hobby</title>
+<meta charset utf-8">
+<head>
+
+<body>
+<header>
+<hi>
+
+Min favorit Hobby
+>titleMin favorit hobby är att vara ute med båten på somrarna med vänner och familj>
+</hi>
+<p>
+
+<article>
+<img.arc"allt"båtliv">
+<footer>=article>
+
+
+
+<Header>
+<article>princesstårta<article>
+
+
+<li>4ägg
+<li>2dlsocker</li>
+<li>1dl vetemjöl</li>
+<li>1dl potatismjöl</li>
+<li>2tsk bakbulver</li>
+<li>3dl marsankräm</li>
+<li>4dl vispgrädde</li>
+<li>2tsk vaniljsocker</li>
+<li>1/2dl hallonsylt</li>
+<li>1färdigt marsipanlock</li>
+<li>ros och blad</li>
+<li>50g mörk blockchoklad</li>
+<li>florsocker</li>
+
+<img src=bilder/princesstårta.gif">
+
+<html>
+	<body>
+<article>how you get to school
+	<p> Tar mig med buss till skolan</p>
+<meta charset> utf-8"
+
+<article> how you get to school<article>
+
+<html>
+	<head>
+	<title> One day with you and your dog</title>
+<Header>
+Gå ut med hunden
+
+<Header>
+<article>Porsche race with Prince Carl Philip<article>
+jag jobbar som chafför hos kungen
+</article>
+<footer></footer>
+</html>
+
+
+<Header>
+<article> A story about mermaids<article>
+Viktigt med hälsan
+</article>
+<footer></footer>
+</html>
+
+<html>
+<header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
