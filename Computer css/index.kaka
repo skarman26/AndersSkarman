@@ -1,0 +1,34 @@
+<!DOCTyPE html>
+<html>
+<head>
+<title></title>
+<meta charset="utf-8" />
+</head>
+<body>
+	<div id="wrapper">
+	<header>
+	<h1>Choklad.toppar</h1>
+	<nav>
+	<!--hem; pannkakor, chokladkakor,
+	bullar,om oss-->
+	<ul>
+	<li><a href="idex.html>hem</a></li>
+	<li><a href="pages/pannkakor.html">pannkakor</a></li>
+	<li><a href="pages/chokladkakor.html">chokladkakor</a></li>
+	<li><a href="pages/bullar">bullar</a></li>
+	<li><a href="pages.omoss">omoss</a></li>
+	
+</ul>
+	
+	
+	</nav>
+	</header>
+	<article>
+	<figure>
+	<img src="kaka.png" alt="En god kaka!"title=Brownies är goda/>
+	<figcaption>Choklad-kaka</>
+	</figure>
+	
+	</article>
+</body>
+</html>
