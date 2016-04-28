@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Semesterresor</title>
+	<meta name="author" content="Anders Skårman"/>
+	<meta name="description" content="Fantastiska Semesterresor!"/>
+	<link href="styles/indexlab4.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<header>
+	<h1>Semesterresor</h1>
+	<nav>
+	<ul>
+	<li><a href="pages/charterresor.html">Charterresor</a></li>
+	<li><a href="pages/charterresor.html">Affärsresor</a></li>
+	<li><a href="pages/charterresor.html">Gruppresor</a></li>
+	<li><a href="pages/charterresor.html">Sista minuten</a></li>
+		</ul>
+	</nav>
+	<div>
+		<img src="images/kundvagn.jpg" id="kundvagn" alt="Kundvagn"/>
+		<img src="images/sökfunktion.jpg" id="sokfunktion" alt="Sökfunktion"/>
+		<a href="pages/loggain.html">
+			<img src="images/loggain.jpg" id="loggain" alt="Logga in"/>
+		</a>
+	</div>
+</header>
+<div id="wrapper">
+	<h1>Boka din Sommarresa hos oss!</h1>
+	<div class="bilderdiv">
+	<img src="images/segelbåt.jpg" alt="segelbåt"/>
+	<h4>Du kan vara på denna strand snart, om du bokar nu!</h4>
+	<img src="images/strand.jpg" id="strand" alt="strand"/>
+	</div>
+<div class="bokningdiv">
+	<section class="destinationsection">
+		<h3>Sök Resa</h3>
+		<form>
+			<input type="radio" name="enkel/retur" value="Tur och retur" />Tur och Retur
+			<input type="radio" name="enkel/retur" value="enkelresa"/>Enkelresa
+			<input type="radio" name="enkel/retur" value="Rundresa"/>Rundresa
+		</form>
+		<h3>Avreseort</h3>
+		<h3>Destination</h3>
+	</section>
+	<section class="datumsection">
+		<form>
+		<h3>Avresedatum</h3>
+		<input type="date" name="avresedatum"/>
+		<h3>Hemresedatum</h3>
+		<input type="date" name="hemresedatum"/>
+		</form>
+	</section>
+</div>
+	<table class="popresor" border="1">
+		<tr>
+		<th colspan="3">Populäraste resmålen</th>
+		</tr>
+		<tr>
+			<td>Australien</td>
+			<td>Portugal</td>
+			<td>Asien</td>
+		</tr>
+		<tr>
+			<td>Island</td>
+			<td>Spanien</td>
+			<td>Kroatien</td>
+		</tr>
+		<tr>
+			<td>Dominikanska republiken</td>
+			<td>Nederländerna</td>
+			<td>Österrike</td>
+		</tr>
+		<tr>
+			<td>England</td>
+			<td>Schweiz</td>
+			<td>Belgien</td>
+		</tr>
+		<tr>
+			<td>Belgien</td>
+			<td>Egypten</td>
+			<td>Nordkorea</td>
+		</tr>
+		<tr>
+			<td>Indien</td>
+			<td>Jordanien</td>
+			<td>Moldavien</td>
+		</tr>
+	</table>
+	<div id="flyg">
+	<h4>Varför inte boka din höstresa redan nu?</h4>
+	<img src="images/flyg.jpg" alt="Flyg"/>
+	</div>
+</div>
+<footer>
+<div>
+    <h5>Semesterresor</h5>
+		<ul>
+			<li>Inför resan</li>
+			<li>Om oss</li>
+			<li>Betalning</li>
+			<li>Resevillkor</li>
+		</ul>
+		</div>
+		<div>
+			<h5>Information</h5>
+			<ul>
+				<li>Appen för semester</li>
+				<li>Hjälp och kontakt</li>
+				<li>Vanliga frågor</li>
+				<li>Kontakta oss</li>
+			</ul>
+			</div>
+	<div>
+		<h5>Kontakta oss</h5>
+		<form>
+			<label for="namn">Namn</label>
+			<input type="namn" id="namn"/></br>
+			<label for="efternamn">Efternamn</label>
+			<input type="text" id="efternamn"/></br>
+			<label for="Email">Email</label>
+			<input type="Email" id="Email"/></br>
+			<input type="submit" value="skicka"/>
+		</form>
+	</div>
+</footer>
+</body>
+</html>
